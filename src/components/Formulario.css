@@ -1,0 +1,17 @@
+.table th {
+    font-weight: bold;
+    background-color: #ddd;
+  }
+  
+  .table td, .table th {
+    vertical-align: middle;
+  }
+  
+  .btn-danger, .btn-warning {
+    color: #fff;
+  }
+  
+  .btn-danger:hover, .btn-warning:hover {
+    color: #fff;
+  }
+  
